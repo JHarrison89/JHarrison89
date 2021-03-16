@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning advanced React.js, ES6 Javascript & advanced Rails. 
 - 🔭 I’m currently working on some personal projects to build up my repo.
-- 📫 How to reach me at jeremaia.harrison@gmail.com 
+- 📫 Reach me at jeremaia.harrison@gmail.com 
 
 <!--
 **JHarrison89/JHarrison89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

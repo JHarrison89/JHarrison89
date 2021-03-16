@@ -1,8 +1,8 @@
 ### Hi there, I'm Jeremaia 👋
 
-- 🌱 I’m currently learning advanced React.js, ES6 Javascript & advanced Rails. 
-- 🔭 I’m currently working on some personal projects to build up my repo.
-- 📫 Reach me at jeremaia.harrison@gmail.com 
+- 🌱  I’m currently learning advanced React.js, ES6 Javascript & advanced Rails. 
+- 🔭  I’m currently working on some personal projects to build up my repo.
+- 📫  Reach me at jeremaia.harrison@gmail.com 
 
 
 ### Languages and Tools:

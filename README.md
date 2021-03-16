@@ -6,7 +6,9 @@
 
 
 ### Languages and Tools:
-https://user-images.githubusercontent.com/67600675/111355294-25518480-867f-11eb-9e95-f18d6b642f23.jpg
+![boostrap](https://user-images.githubusercontent.com/67600675/111355294-25518480-867f-11eb-9e95-f18d6b642f23.jpg)
+
+
 
 <!--
 **JHarrison89/JHarrison89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

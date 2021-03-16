@@ -4,6 +4,12 @@
 - 🔭 I’m currently working on some personal projects to build up my repo.
 - 📫 Reach me at jeremaia.harrison@gmail.com 
 
+
+### Languages and Tools:
+rails ruby nodejs javascript postgresql bootstrap css3 html5 heroku git sql
+
+bootstrap css3 figma git heroku html5 illustrator javascript mongodb mysql nodejs php postgresql rails react reactnative ruby sass sqlite unity vuejs xd
+
 <!--
 **JHarrison89/JHarrison89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

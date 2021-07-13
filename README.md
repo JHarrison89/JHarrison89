@@ -1,7 +1,7 @@
 ### Hi there, I'm Jeremaia 👋
 
-- 🌱 I’m learning advanced React.js, ES6 Javascript & advanced Rails. 
-- 🔭 working on a jobs board & gift list app to build up my repo.
+- 🌱 I’m a DataCamp intern 
+- 📚 I'm Currently learning how to build apps using a Vue frontend, Rails 6 server for the backend and GraphQL.
 - 📫 Reach me at jeremaia.harrison@gmail.com 
 
 

@@ -1,7 +1,7 @@
 ### Hi there, I'm Jeremaia 👋
 
 - 👨‍💻 I’m a software engineer at DataCamp  
-- 📚 I'm learning how to build apps using a Vue, Rail & GraphQL.
+- 📚 I'm learning how to build apps using a Vue, Rail & GraphQL
 - 📫 Reach me at jeremaia.harrison@gmail.com 
 
 

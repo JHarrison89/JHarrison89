@@ -1,6 +1,6 @@
 ### Hi there, I'm Jeremaia 👋
 
-- 👨‍💻 I’m a software engineer at DataCamp  
+- 👨‍💻 I’m a software engineer at Easol  
 - 🚀 I build apps using rails, Vue & GraphQL
 - 📫 Reach me at jeremaia.harrison@gmail.com 
 

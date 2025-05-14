@@ -1,7 +1,7 @@
 ### Hi there, I'm Jeremaia 👋
 
-- 👨‍💻 I’m a software engineer at Easol  
-- 🚀 I build apps using Rails, Vue & GraphQL
+- 👨‍💻 I’m a full-stack software engineer
+- 🚀 I build apps using Rails, Tailwind, Turbo & Stimulus
 - 📫 Reach me at jeremaia.harrison@gmail.com 
 
 
